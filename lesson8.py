@@ -1,0 +1,6 @@
+color = input("enter the color: ")
+prular_noun = input ("enter the prular noun: ")
+adjective = input("enter the adjective: ")
+print("the ball is "+color)
+print(prular_noun+" is man")
+print("he is so " +adjective)
